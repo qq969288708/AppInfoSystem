@@ -47,5 +47,5 @@
 	</bean>
 
 	<!-- 5、使用注解去简化Service层的配置：@Service|@Resource -->
-	<context:component-scan base-package="cn.appsys.ServiceImpl" />
+	<context:component-scan base-package="cn.appsys.service" />
 </beans>
